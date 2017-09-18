@@ -5,7 +5,7 @@ This plugin will format hexadecimal colors.
 ### Installation
 
 ```sh
-npm install postcss-hex-format--save
+npm install postcss-hex-format --save
 ```
 
 ### Usage
@@ -29,14 +29,14 @@ Or use it in some other [PostCSS way](https://github.com/postcss/postcss#usage).
 **Possible values:** `short` or `long`.
 **Default:** `long`
 
-Use this option to define weither hex colors should be lengthened or shortened if possible.
+Use this option to define whether hex colors should be lengthened or shortened if possible.
 
 
 #### `case`
 **Possible values:** `upper` or `lower`.
 **Default:** `upper`
 
-Use this option to define wheither hex colors should be uppercase or lowercase.
+Use this option to define whether hex colors should be uppercase or lowercase.
 
 
 
